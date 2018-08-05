@@ -1,0 +1,12 @@
+build/
+.coverage
+coverage.xml
+dist/
+*.egg-info
+!__init__.py
+*.pyc
+__pycache__
+*.swp
+.tox/
+.idea/
+.gitignore
